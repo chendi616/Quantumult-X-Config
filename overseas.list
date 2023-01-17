@@ -1,5 +1,9 @@
 #海外服务
 
+# > mercari
+HOST-KEYWORD,mercari,海外服务
+HOST-KEYWORD,braze,海外服务
+
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
