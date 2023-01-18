@@ -3,6 +3,16 @@
 # > mercari
 HOST-KEYWORD,mercari,海外服务
 HOST-KEYWORD,braze,海外服务
+HOST-KEYWORD,mercdn,海外服务
+
+# > yuyu-tei
+HOST-KEYWORD,yuyu-tei,海外服务
+
+# > pokemon-card
+HOST-KEYWORD,pokemon-card,海外服务
+
+# > ebay
+HOST-KEYWORD,ebay,海外服务
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
