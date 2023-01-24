@@ -1,5 +1,9 @@
 #海外服务
 
+# > reddit
+HOST-KEYWORD,reddit,海外服务
+#HOST-SUFFIX,reddit.com,海外服务
+
 # > mercari
 HOST-KEYWORD,mercari,海外服务
 HOST-KEYWORD,braze,海外服务
