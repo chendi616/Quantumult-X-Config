@@ -1,5 +1,11 @@
 #海外服务
 
+# > rakuten
+HOST-KEYWORD,rakuten,海外服务
+
+# > amazon
+HOST-KEYWORD,amazon,海外服务
+
 # > 神百
 HOST-KEYWORD,52poke,海外服务
 
