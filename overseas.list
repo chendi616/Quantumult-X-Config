@@ -2,7 +2,7 @@
 
 # > rakuten
 HOST-KEYWORD,rakuten,海外服务
-HOST-SUFFIX,r10s.jp,海外服务
+HOST-KEYWORD,r10s,海外服务
 
 # > amazon
 HOST-KEYWORD,amazon,海外服务
